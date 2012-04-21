@@ -9,7 +9,7 @@ public class HelloWorldActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.d("HELLO", "Hello Android!!!");
+        Log.d("HELLO", "Hello Android!!! edit edit");
         setContentView(R.layout.main);
     }
 }
